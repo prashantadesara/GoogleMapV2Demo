@@ -15,3 +15,5 @@ Second thing, you need to copy google_play_library from below path. And add as r
 
 After successfully all setup, run your android project.
 Enjoy!!!
+
+http://prashantandroid.blogspot.in/2013/09/google-maps-android-api-v2-with-source.html
